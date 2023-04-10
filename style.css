@@ -1,6 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background: url("../img/bg2.jpg") top right no-repeat;
+  
   color: #fff;
   position: relative;
   background: transparent;
